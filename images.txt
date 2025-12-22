@@ -1,4 +1,4 @@
 
-minio/minio:RELEASE.2021-06-17T00-10-46Z
+powerjob-server
 #支持指定架构
 ## --platform=linux/arm64 xiaoyaliu/alist
