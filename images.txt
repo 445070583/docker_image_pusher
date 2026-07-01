@@ -1,4 +1,4 @@
 
-ymlisoft/kkfileview:4.4.0-11
+keking/kkfileview-base:5.0.0
 #支持指定架构
 ## --platform=linux/arm64 xiaoyaliu/alist
