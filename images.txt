@@ -1,4 +1,4 @@
 
-fangzhengjin/kkfileview:5.0.0
+kubesphere/ks-installer:v3.3.2
 #支持指定架构
 ## --platform=linux/arm64 xiaoyaliu/alist
