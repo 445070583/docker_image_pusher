@@ -1,4 +1,4 @@
 
-OpenViking:0.4.21
+ghcr.io/volcengine/openviking:0.4.21
 #支持指定架构
 ## --platform=linux/arm64 xiaoyaliu/alist
